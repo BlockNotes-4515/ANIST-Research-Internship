@@ -410,30 +410,25 @@ Large-scale geospatial mapping and intelligent surveillance.
 
 ## Technical Learnings
 
-* Raspberry Pi Integration
-* IoT System Design
-* Radiation Monitoring Concepts
-* GPS Data Processing
-* Heatmap Visualization
-* AI/ML Applications in Nuclear Science
+The internship provided practical exposure to Raspberry Pi integration, IoT-based system design, radiation monitoring concepts, GPS data processing, and real-time heatmap visualization. It also enhanced understanding of AI/ML applications in nuclear science and intelligent environmental monitoring systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-System-orange?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Applications-black?style=for-the-badge)
+![GPS](https://img.shields.io/badge/GPS-Tracking-success?style=for-the-badge)
+![Radiation Mapping](https://img.shields.io/badge/Radiation-Mapping-red?style=for-the-badge)
+![Heatmap](https://img.shields.io/badge/Heatmap-Visualization-blueviolet?style=for-the-badge)
+![Nuclear Science](https://img.shields.io/badge/Nuclear-Science-darkred?style=for-the-badge)
 
 ## Professional Learnings
 
-* Research Methodology
-* Problem Solving
-* Technical Documentation
-* Team Collaboration
-* Real-Time System Development
+During the course of the internship, significant exposure was gained in the areas of research methodology, technical problem-solving, documentation practices, collaborative development, and real-time system implementation. The project involved understanding research-oriented workflows including literature review, data collection, experimental analysis, and prototype development. Various technical challenges related to sensor integration, GPS synchronization, and real-time data processing were addressed through analytical and problem-solving approaches. The internship also emphasized the importance of maintaining proper technical documentation, including reports, system architecture, implementation details, and research observations. In addition, collaborative work environments enhanced communication, coordination, and teamwork skills while contributing towards shared research objectives. The development of a real-time radiation monitoring and mapping system further provided practical exposure to IoT-based system design, embedded technologies, and intelligent environmental monitoring applications.
 
 ---
 
 # Expected Outcomes
 
-* Functional radiation mapping prototype
-* Interactive heatmap visualization
-* Real-time environmental monitoring
-* Intelligent radiation analysis framework
-* Research-oriented scalable architecture
+The proposed RADMAP system is expected to deliver a fully functional radiation mapping prototype capable of collecting and processing real-time environmental radiation data with geographical coordinates. The system will provide interactive heatmap visualization for intelligent monitoring and spatial analysis of radiation levels across different locations. Through continuous environmental sensing and data acquisition, the project aims to establish a reliable real-time monitoring framework for radiation safety and environmental assessment. In addition, the integration of intelligent data analysis techniques will support efficient radiation pattern interpretation and future AI-based predictive analytics. The overall architecture of the system is designed to be research-oriented, scalable, and adaptable for future advancements such as cloud integration, smart surveillance, mobile monitoring applications, and advanced geospatial analytics.
 
 ---
 
@@ -453,8 +448,4 @@ This research-oriented prototype demonstrates the practical integration of moder
 [![Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-success?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
 [![Research Project](https://img.shields.io/badge/Research-Project-blueviolet?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
+
