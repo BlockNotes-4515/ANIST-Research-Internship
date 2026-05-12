@@ -432,3 +432,8 @@ The project focuses on improving environmental safety, real-time monitoring, and
 
 This research-oriented prototype demonstrates the practical integration of modern technologies into scientific and environmental applications, while also providing future scalability for advanced smart monitoring systems.
 
+![ANIST](https://img.shields.io/badge/ANIST-Amity%20Institute%20of%20Nuclear%20Science%20and%20Technology-red?style=for-the-badge)
+
+![Amity University](https://img.shields.io/badge/Amity-University-darkred?style=for-the-badge)
+
+![Research Internship](https://img.shields.io/badge/Research%20&%20Development-Internship-green?style=for-the-badge)
