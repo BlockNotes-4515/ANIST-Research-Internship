@@ -186,20 +186,8 @@ This system aims to contribute towards environmental safety, nuclear monitoring,
 
 # Problem Statement
 
-Environmental radiation monitoring is often limited by:
-
-* Lack of real-time tracking systems
-* Manual radiation data collection
-* Limited geographical visualization
-* Difficulty in identifying hazardous zones instantly
-* High dependency on expensive industrial systems
-
-Traditional systems may not provide:
-
-* Portable monitoring
-* Intelligent analytics
-* Real-time heatmap generation
-* Automated radiation pattern analysis
+Environmental radiation monitoring systems often face significant limitations due to the absence of real-time tracking mechanisms, dependence on manual data acquisition processes, and restricted geographical visualization capabilities. Traditional monitoring approaches may struggle to instantly identify hazardous radiation zones, leading to delays in environmental assessment and safety analysis. 
+In addition, many existing industrial-grade systems are expensive, less portable, and difficult to deploy for large-scale or field-based monitoring applications. Conventional systems also lack intelligent analytical capabilities such as automated radiation pattern recognition, AI-driven decision support, and dynamic heatmap generation for real-time visualization. These limitations highlight the need for a portable, scalable, and intelligent radiation monitoring framework capable of integrating real-time data acquisition, geospatial mapping, and advanced analytical technologies for efficient environmental surveillance and safety management.
 
 ---
 
@@ -207,20 +195,11 @@ Traditional systems may not provide:
 
 RADMAP proposes an intelligent and portable solution that:
 
-* Collects real-time radiation data
-* Tracks live geographical coordinates
-* Generates radiation heatmaps
-* Enables environmental monitoring
-* Supports AI-driven data analysis
-* Improves accessibility of radiation mapping systems
+The proposed system is capable of collecting real-time radiation data along with live geographical coordinates for accurate environmental tracking and analysis. It generates interactive radiation heatmaps to visualize radiation intensity across different locations and supports intelligent environmental monitoring through continuous data acquisition and processing. The integration of AI-driven analytical techniques enhances data interpretation and monitoring efficiency, while the portable and scalable architecture improves the accessibility and practicality of radiation mapping systems.
 
 The prototype combines:
 
-* Raspberry Pi
-* Radiation Sensors
-* GPS Modules
-* Python-based analytics
-* Mapping and visualization tools
+The RADMAP system is developed using Raspberry Pi as the core processing unit integrated with radiation sensors for environmental data acquisition and GPS modules for real-time location tracking. Python-based analytical techniques are utilized for data processing, while mapping and visualization tools are employed to generate interactive heatmaps and geospatial radiation monitoring interfaces.
 
 ---
 
@@ -228,17 +207,17 @@ The prototype combines:
 
 ## Primary Objectives
 
-* Develop a real-time radiation monitoring system
-* Integrate GPS-enabled geospatial tracking
-* Visualize radiation levels through heatmaps
-* Build an intelligent environmental monitoring prototype
+* Develop a real-time radiation monitoring system capable of collecting and processing environmental radiation data efficiently.
+* Integrate GPS-enabled geospatial tracking to associate radiation measurements with precise geographical locations.
+* Visualize radiation intensity and distribution using interactive heatmaps and mapping interfaces.
+* Build an intelligent environmental monitoring prototype for smart radiation analysis and safety assessment.
 
 ## Secondary Objectives
 
-* Enhance radiation awareness and safety
-* Improve portability and accessibility
-* Explore AI integration in nuclear applications
-* Create scalable monitoring architecture
+* Enhance radiation awareness and environmental safety through intelligent monitoring and analysis systems.
+* Improve portability and accessibility by developing a compact and user-friendly monitoring prototype.
+* Explore the integration of AI technologies in nuclear science and radiation-based applications.
+* Create a scalable system architecture capable of supporting future advancements and smart monitoring solutions.
 
 ---
 
@@ -395,14 +374,14 @@ Large-scale geospatial mapping and intelligent surveillance.
 
 ## Responsibilities
 
-* Research and literature review
-* System architecture planning
-* Sensor integration
-* Data analysis
-* AI/ML model exploration
-* Documentation and reporting
-* Prototype development
-* Testing and validation
+* Conducted research and literature review to understand radiation monitoring systems and related technologies.
+* Planned and designed the overall architecture of the RADMAP prototype system.
+* Worked on sensor integration and hardware-software interfacing using Raspberry Pi and IoT modules.
+* Performed data collection, processing, and analytical evaluation of environmental readings.
+* Explored AI/ML techniques for intelligent monitoring and future predictive analysis.
+* Maintained technical documentation, reports, and project implementation records.
+* Contributed to the development of the real-time radiation mapping prototype.
+* Performed system testing and validation to evaluate performance, reliability, and accuracy.
 
 ---
 
@@ -411,6 +390,7 @@ Large-scale geospatial mapping and intelligent surveillance.
 ## Technical Learnings
 
 The internship provided practical exposure to Raspberry Pi integration, IoT-based system design, radiation monitoring concepts, GPS data processing, and real-time heatmap visualization. It also enhanced understanding of AI/ML applications in nuclear science and intelligent environmental monitoring systems.
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-System-orange?style=for-the-badge)
@@ -442,10 +422,20 @@ This research-oriented prototype demonstrates the practical integration of moder
 
 ![ANIST](https://img.shields.io/badge/ANIST-Amity%20Institute%20of%20Nuclear%20Science%20and%20Technology-red?style=for-the-badge) ![Amity University](https://img.shields.io/badge/Amity-University-darkred?style=for-the-badge) ![Research Internship](https://img.shields.io/badge/Research%20&%20Development-Internship-green?style=for-the-badge)
 
+---
+
+## © 2026 RADMAP | Research & Development Internship Project
+
+Developed as part of the Research & Development Internship at ANIST – Amity Institute of Nuclear Science and Technology, Amity University Noida.
+
+### Project Domains
+AI/ML • IoT • Embedded Systems • Nuclear Technology • Environmental Monitoring • Geospatial Analytics
+
+### Developed By
+Dhruv Dhayal and My Team #DeltaForce
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
 [![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/BlockNotes-4515)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/BlockNotes-4515)
 [![Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-success?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
 [![Research Project](https://img.shields.io/badge/Research-Project-blueviolet?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:7dd3fc&height=140&section=footer"/>
