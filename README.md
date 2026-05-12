@@ -17,8 +17,8 @@
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/BlockNotes-4515)
 ---
 
 # Internship & Organization Details
@@ -74,6 +74,12 @@ RADMAP is an intelligent GPS-enabled radiation mapping system designed to monito
 The system integrates radiation sensors with Raspberry Pi and GPS modules to collect location-aware radiation data. The collected information is processed and visualized using heatmaps and geospatial monitoring interfaces for intelligent environmental analysis and safety assessment.
 
 The project aims to provide a scalable and portable solution for radiation monitoring, environmental safety, smart surveillance, and research-oriented applications.
+
+![Research Based](https://img.shields.io/badge/Research-Based-purple?style=for-the-badge)
+![Real Time System](https://img.shields.io/badge/Real-Time%20System-blue?style=for-the-badge)
+![Environmental Safety](https://img.shields.io/badge/Environmental-Safety-success?style=for-the-badge)
+![Nuclear Technology](https://img.shields.io/badge/Nuclear-Technology-red?style=for-the-badge)
+![Geospatial Mapping](https://img.shields.io/badge/Geospatial-Mapping-orange?style=for-the-badge)
 
 ---
 
@@ -440,3 +446,6 @@ The project focuses on improving environmental safety, real-time monitoring, and
 This research-oriented prototype demonstrates the practical integration of modern technologies into scientific and environmental applications, while also providing future scalability for advanced smart monitoring systems.
 
 ![ANIST](https://img.shields.io/badge/ANIST-Amity%20Institute%20of%20Nuclear%20Science%20and%20Technology-red?style=for-the-badge) ![Amity University](https://img.shields.io/badge/Amity-University-darkred?style=for-the-badge) ![Research Internship](https://img.shields.io/badge/Research%20&%20Development-Internship-green?style=for-the-badge)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/BlockNotes-4515)
