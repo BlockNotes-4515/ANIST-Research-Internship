@@ -140,38 +140,41 @@ The project aims to provide a scalable and portable solution for radiation monit
 
 # Additional Valuable Sections
 
-## Research Components
+## 📚 Literature Review & Analysis (Theory Overview) Research Components
 
-* Literature Review
-* Radiation Safety Analysis
-* Sensor Accuracy Evaluation
-* Data Collection & Validation
-* AI-Based Monitoring Possibilities
+### 📚 Literature Review & Analysis (Theory Overview)
 
-## Engineering Components
+* Review of existing research in radiation monitoring systems and IoT-based environmental sensing.
+* Study of radiation safety standards, guidelines, and regulatory frameworks.
+* Evaluation of different sensor technologies and their accuracy in radiation detection.
+* Methods for reliable data collection, preprocessing, and validation in real-time environments.
+* Exploration of AI/ML techniques for intelligent radiation monitoring, prediction, and anomaly detection.
 
-* Embedded System Integration
-* GPS Synchronization
-* Real-Time Data Pipeline
-* Sensor Communication
-* Hardware-Software Interfacing
+### 🔧 System Integration & Engineering Layer (Theory Overview)
 
-## AI/ML Components
+* Integration of embedded systems for real-time sensing and control operations.
+* GPS synchronization to ensure accurate geospatial tagging of collected radiation data.
+* Development of a real-time data pipeline for continuous transmission and processing of sensor outputs.
+* Establishment of reliable sensor communication protocols for stable IoT connectivity.
+* Hardware–software interfacing to enable seamless interaction between physical devices and processing systems.
 
-* Data Classification
-* Pattern Analysis
-* Radiation Trend Prediction
-* Intelligent Monitoring Systems
-* Future Predictive Analytics
+### 🤖 AI/ML Components (Theory Overview)
 
-## Documentation Components
+* Classification of radiation data to identify safe, moderate, and hazardous levels.
+* Pattern analysis to detect anomalies and recurring environmental behavior.
+* Prediction of radiation trends using historical and real-time datasets.
+* Development of intelligent monitoring systems for automated decision-making.
+* Use of predictive analytics to estimate future radiation exposure risks and environmental impact.
 
-* Technical Reports
-* Research Notes
-* Experimental Observations
-* Prototype Testing Logs
-* Visualization Screenshots
+---
 
+### 📄 Documentation Components (Theory Overview)
+
+* Preparation of structured technical reports covering system design and results.
+* Maintenance of detailed research notes during development and experimentation phases.
+* Recording of experimental observations for performance evaluation and validation.
+* Logging of prototype testing results for debugging and iterative improvements.
+* Inclusion of visualization outputs such as heatmaps, graphs, and dashboard screenshots for analysis.
 
 # Summer Internship Overview
 
