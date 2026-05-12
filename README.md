@@ -166,8 +166,6 @@ The project aims to provide a scalable and portable solution for radiation monit
 * Development of intelligent monitoring systems for automated decision-making.
 * Use of predictive analytics to estimate future radiation exposure risks and environmental impact.
 
----
-
 ### 📄 Documentation Components (Theory Overview)
 
 * Preparation of structured technical reports covering system design and results.
@@ -175,6 +173,8 @@ The project aims to provide a scalable and portable solution for radiation monit
 * Recording of experimental observations for performance evaluation and validation.
 * Logging of prototype testing results for debugging and iterative improvements.
 * Inclusion of visualization outputs such as heatmaps, graphs, and dashboard screenshots for analysis.
+
+---
 
 # Summer Internship Overview
 
@@ -242,23 +242,16 @@ The RADMAP system is developed using Raspberry Pi as the core processing unit in
 
 # System Workflow
 
-```txt
-Radiation Sensor
-        ↓
-Data Acquisition Module
-        ↓
-Raspberry Pi Processing
-        ↓
-GPS Coordinate Collection
-        ↓
-Data Analysis & Processing
-        ↓
-Database / Storage
-        ↓
-Heatmap Visualization
-        ↓
-Monitoring Dashboard
-```
+<p align="center">
+  <img 
+    src="ANIST (AMITY) WORK/MEDIA IMAGES/System Workflow.png" 
+    alt="Amity University Noida"
+    width="30%"
+    style="border-radius:20px;
+           box-shadow:0px 8px 25px rgba(0,0,0,0.35);
+           transform:perspective(1000px) rotateX(2deg);"
+  />
+</p>
 
 ---
 
