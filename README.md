@@ -99,7 +99,9 @@ The project aims to provide a scalable and portable solution for radiation monit
 
 ---
 
-# Project Architecture
+<p align="center">
+  <h1>Project Architecture</h1>
+</p>
 
 <p align="center">
   <img 
@@ -114,7 +116,7 @@ The project aims to provide a scalable and portable solution for radiation monit
 
 ---
 
-# Additional Valuable Sections
+<h1 align="center">Additional Valuable Sections</h1>
 
 ## 📚 Literature Review & Analysis (Theory Overview) Research Components
 
