@@ -102,7 +102,14 @@ The project aims to provide a scalable and portable solution for radiation monit
 # Project Architecture
 
 <p align="center">
-  <img src="ANIST (AMITY) WORK/MEDIA IMAGES/System Architecture.png" width="400"/>
+  <img 
+    src="ANIST (AMITY) WORK/MEDIA IMAGES/System Architecture.png" 
+    alt="Amity University Noida"
+    width="80%"
+    style="border-radius:20px;
+           box-shadow:0px 8px 25px rgba(0,0,0,0.35);
+           transform:perspective(1000px) rotateX(2deg);"
+  />
 </p>
 
 ---
