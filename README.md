@@ -449,3 +449,12 @@ This research-oriented prototype demonstrates the practical integration of moder
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
 [![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/BlockNotes-4515)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/BlockNotes-4515)
+[![Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-success?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
+[![Research Project](https://img.shields.io/badge/Research-Project-blueviolet?style=for-the-badge)](https://github.com/sponsors/BlockNotes-4515)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/yourusername/radmap-ai-radiation-mapping?style=for-the-badge)
