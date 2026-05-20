@@ -253,6 +253,17 @@ Python-based scripts analyze collected radiation measurements.
 
 The processed data is visualized using heatmaps and geospatial mapping interfaces.
 
+<p align="center">
+  <img 
+    src="ANIST (AMITY) WORK/MEDIA IMAGES/RADMAP LEVEL WISE ROADMAP.jpeg" 
+    alt="Amity University Noida"
+    width="100%"
+    style="border-radius:20px;
+           box-shadow:0px 8px 25px rgba(0,0,0,0.35);
+           transform:perspective(1000px) rotateX(2deg);"
+  />
+</p>
+
 ---
 
 # Technologies Used
